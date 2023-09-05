@@ -1,0 +1,5 @@
+/Users/yasarkaner/Documents/ROVERSS/rover-task
+/Users/yasarkaner/Documents/ROVERSS/rover-task.dll
+/Users/yasarkaner/Documents/ROVERSS/rover-task.deps.json
+/Users/yasarkaner/Documents/ROVERSS/rover-task.runtimeconfig.json
+/Users/yasarkaner/Documents/ROVERSS/rover-task.pdb

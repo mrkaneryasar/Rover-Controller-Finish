@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pVnlS48VQiZsdtpsZ5NflR8UNN1eyhxIrzxyhz3DhDVZXMCAtVnhkWRi3ZnPQQ4h9Swe9aySc3EFUd8jgqUhmA==",
+  "success": true,
+  "projectFilePath": "/Users/yasarkaner/Projects/rover-task/rover-task/rover-task.csproj",
+  "expectedPackageFiles": [
+    "/Users/yasarkaner/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/yasarkaner/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/yasarkaner/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

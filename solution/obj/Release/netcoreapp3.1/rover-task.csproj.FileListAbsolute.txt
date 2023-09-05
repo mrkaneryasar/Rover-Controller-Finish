@@ -1,0 +1,14 @@
+/Users/yasarkaner/Projects/rover-task/rover-task/bin/Release/netcoreapp3.1/rover-task
+/Users/yasarkaner/Projects/rover-task/rover-task/bin/Release/netcoreapp3.1/rover-task.deps.json
+/Users/yasarkaner/Projects/rover-task/rover-task/bin/Release/netcoreapp3.1/rover-task.runtimeconfig.json
+/Users/yasarkaner/Projects/rover-task/rover-task/bin/Release/netcoreapp3.1/rover-task.runtimeconfig.dev.json
+/Users/yasarkaner/Projects/rover-task/rover-task/bin/Release/netcoreapp3.1/rover-task.dll
+/Users/yasarkaner/Projects/rover-task/rover-task/bin/Release/netcoreapp3.1/rover-task.pdb
+/Users/yasarkaner/Projects/rover-task/rover-task/obj/Release/netcoreapp3.1/rover-task.csproj.AssemblyReference.cache
+/Users/yasarkaner/Projects/rover-task/rover-task/obj/Release/netcoreapp3.1/rover-task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yasarkaner/Projects/rover-task/rover-task/obj/Release/netcoreapp3.1/rover-task.AssemblyInfoInputs.cache
+/Users/yasarkaner/Projects/rover-task/rover-task/obj/Release/netcoreapp3.1/rover-task.AssemblyInfo.cs
+/Users/yasarkaner/Projects/rover-task/rover-task/obj/Release/netcoreapp3.1/rover-task.csproj.CoreCompileInputs.cache
+/Users/yasarkaner/Projects/rover-task/rover-task/obj/Release/netcoreapp3.1/rover-task.dll
+/Users/yasarkaner/Projects/rover-task/rover-task/obj/Release/netcoreapp3.1/rover-task.pdb
+/Users/yasarkaner/Projects/rover-task/rover-task/obj/Release/netcoreapp3.1/rover-task.genruntimeconfig.cache
